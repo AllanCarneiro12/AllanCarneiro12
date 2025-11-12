@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0CE82B&center=true&vCenter=true&width=940&lines=Ol%C3%A1%2C+eu+sou+o+Allan+Carneiro!+%F0%9F%91%8B;Desenvolvedor+em+Forma%C3%A7%C3%A3o+%F0%9F%92%BB;Sempre+em+Busca+de+Novos+Desafios!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
+
+<br/>
 
 ## 👨‍💻 Sobre Mim
 
@@ -20,10 +20,6 @@ Olá! Sou **Allan Carneiro**, profissional de TI com paixão por desenvolvimento
 🎯 Buscando transição de carreira para desenvolvimento full-time
 
 <br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -51,9 +47,9 @@ Olá! Sou **Allan Carneiro**, profissional de TI com paixão por desenvolvimento
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
+</div> -->
 
 ## 📊 Estatísticas do GitHub
 
@@ -74,6 +70,27 @@ Olá! Sou **Allan Carneiro**, profissional de TI com paixão por desenvolvimento
 
 ## 🎯 Objetivos Atuais
 
+<div align="center">
+
+| 💼 Status Atual | 🎯 Objetivo | 🌱 Aprendendo |
+|:---|:---|:---|
+| Técnico de TI na EMASA | Desenvolvedor de Sistemas | JAVA, C, SQL e Boas Práticas |
+
+</div>
+
+<div align="center">
+
+**🔍 Áreas de Interesse:**  
+Desenvolvimento Web • Tecnologias Emergentes • Solução de Problemas
+
+**🌐 Idiomas:**  
+Português (Nativo) • Inglês (Avançado)
+
+**✅ Disponível para oportunidades de desenvolvimento**
+
+</div>
+
+<!-- Versão alternativa em código JavaScript:
 ```javascript
 const allan = {
     statusAtual: "Técnico de TI na EMASA",
@@ -84,6 +101,7 @@ const allan = {
     idiomas: ["Português (Nativo)", "Inglês (Avançado)"]
 };
 ```
+-->
 
 <br/>
 
