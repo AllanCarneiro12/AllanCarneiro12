@@ -91,19 +91,25 @@ const allan = {
 
 <div align="center">
 
-| 📚 **Formação** | 💼 **Experiência** | 🎯 **Foco** |
-|:---:|:---:|:---:|
-| Sistemas de Informação | Suporte e TI | Desenvolvimento de Software |
-| UNIAVAN - 2º Semestre | EMASA | Full Stack Development |
-| Técnico em Informática (2019-2022) | Desde Jul/2025 | Web & Mobile |
+### 📚 Formação Acadêmica
+� **Bacharelado em Sistemas de Informação**  
+📍 UNIAVAN - 2º/8º Semestre  
+
+📜 **Técnico em Informática**  
+📍 Ensino Médio Integrado (2019-2022)
+
+### 💼 Experiência Profissional
+🏢 **Suporte e Técnico de TI**  
+📍 EMASA - Desde Julho/2025
+
+### 🎯 Foco de Desenvolvimento
+💻 Desenvolvimento de Software  
+🌐 Full Stack Development  
+📱 Web & Mobile
 
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
-</div>
 
 ## 📫 Vamos Conectar?
 
