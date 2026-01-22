@@ -12,7 +12,7 @@
 
 Olá! Sou **Allan Carneiro**, profissional de TI com paixão por desenvolvimento de software. Atualmente trabalho como **Suporte e Técnico de TI** na **EMASA**, onde aplico minhas habilidades técnicas para resolver problemas e otimizar processos.
 
-🎓 Cursando **Bacharelado em Sistemas de Informação** na **UNIAVAN** (2º/8º semestre)  
+🎓 Cursando **Bacharelado em Sistemas de Informação** na **UNIAVAN** (3º/8º semestre)  
 📜 **Técnico em Informática** - Ensino Médio Integrado (2019-2022)  
 💼 Aberto a oportunidades na área de **Desenvolvimento de Sistemas**  
 📚 Programando desde **2019** e sempre aprendendo algo novo  
@@ -32,12 +32,12 @@ Olá! Sou **Allan Carneiro**, profissional de TI com paixão por desenvolvimento
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<!-- ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) -->
 
-### 🚀 Frameworks & Bibliotecas
+<!-- ### 🚀 Frameworks & Bibliotecas
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) -->
 
 ### 🔧 Ferramentas & Controle de Versão
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -55,13 +55,13 @@ Olá! Sou **Allan Carneiro**, profissional de TI com paixão por desenvolvimento
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanCarneiro12&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanCarneiro12&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCarneiro12&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AllanCarneiro12&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AllanCarneiro12&theme=redical&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" width="100%"/>
@@ -71,13 +71,13 @@ Olá! Sou **Allan Carneiro**, profissional de TI com paixão por desenvolvimento
 
 ## 🎯 Objetivos Atuais
 
-<div align="center">
+<!-- <div align="center">
 
 | 💼 Status Atual | 🎯 Objetivo | 🌱 Aprendendo |
 |:---|:---|:---|
 | Técnico de TI na EMASA | Desenvolvedor de Sistemas | JAVA, C, SQL e Boas Práticas |
 
-</div>
+</div> -->
 
 <div align="center">
 
@@ -119,12 +119,12 @@ const allan = {
 
 ### 💼 Experiência Profissional
 🏢 **Suporte e Técnico de TI**  
-📍 EMASA - Desde Julho/2025
+📍 EMASA - Desde Agosto/2025
 
-### 🎯 Foco de Desenvolvimento
+<!-- ### 🎯 Foco de Desenvolvimento
 💻 Desenvolvimento de Software  
 🌐 Full Stack Development  
-📱 Web & Mobile
+📱 Web & Mobile -->
 
 </div>
 
